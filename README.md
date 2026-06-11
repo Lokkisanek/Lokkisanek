@@ -61,7 +61,7 @@ Web developer from Trebic, Czech Republic. I enjoy interactive UIs, clean code, 
 | [**Hypixel-bazaar**](https://github.com/Lokkisanek/Hypixel-bazaar) | Bazaar tracker for Hypixel | HTML · JS |
 | [**Project Union**](https://matyas-odehnal.vercel.app/) | Featured project on my portfolio | React · modern web |
 
-> More projects on my [portfolio](https://matyas-odehnal.vercel.app/) and [GitHub](https://github.com/Lokkisanek?tab=repositories).
+> More projects on my [portfolio](https://odehna.matyas.online/) and [GitHub](https://github.com/Lokkisanek?tab=repositories).
 
 ---
 
@@ -69,7 +69,7 @@ Web developer from Trebic, Czech Republic. I enjoy interactive UIs, clean code, 
 
 I design and build websites — from UI design through development to SEO. **First 20 minutes of consultation are free.**
 
-→ [Pricing & services on my portfolio](https://matyas-odehnal.vercel.app/)
+→ [Accepting new projects](https://odehnal.matyas.online/)
 
 ---
 
