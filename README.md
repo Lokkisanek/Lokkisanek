@@ -1,8 +1,8 @@
 <div align="center">
 
-# Ahoj, jsem Matyáš Odehnal 👋
+# Hi, I'm Matyas Odehnal 👋
 
-**Fullstack developer** z Třebíče · tvořím weby, které dávají smysl
+**Fullstack developer** from Trebic · I build websites that make sense
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-matyas--odehnal.vercel.app-0ea5e9?style=for-the-badge&logo=vercel&logoColor=white)](https://matyas-odehnal.vercel.app/)
 [![GitHub](https://img.shields.io/badge/GitHub-Lokkisanek-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Lokkisanek)
@@ -11,15 +11,15 @@
 
 ---
 
-## O mně
+## About me
 
-Webový vývojář z Třebíče. Baví mě interaktivní UI, čistý kód a moderní tooling — od prototypu ve Figmě po hotový produkt v prohlížeči. Kromě kódu hraju basket a rád cestuju.
+Web developer from Trebic, Czech Republic. I enjoy interactive UIs, clean code, and modern tooling — from Figma prototypes to production-ready apps. Outside of coding, I play basketball and love travelling.
 
 ```text
-🔭 Právě: weby na míru, side projekty & open source
-🌱 Učím se: hlubší fullstack, performance & UX
-💬 Zeptej se mě na: React, Tailwind, web design, side projekty
-📫 Kontakt: odehnalm.08@spst.eu
+🔭 Currently: custom websites, side projects & open source
+🌱 Learning: deeper fullstack, performance & UX
+💬 Ask me about: React, Tailwind, web design, side projects
+📫 Contact: odehnalm.08@spst.eu
 ```
 
 ---
@@ -51,55 +51,31 @@ Webový vývojář z Třebíče. Baví mě interaktivní UI, čistý kód a mode
 
 ---
 
-## ⭐ Vybrané projekty
+## ⭐ Featured projects
 
-| Projekt | Popis | Stack |
+| Project | Description | Stack |
 | :--- | :--- | :--- |
-| [**SpinPot**](https://github.com/Lokkisanek/SpinPot) | Browserová arcade hra inspirovaná Clover Pit | HTML · CSS · JS |
-| [**SkyblockHub.app**](https://github.com/Lokkisanek/SkyblockHub.app) | Nástroje a web pro Skyblock komunitu | PHP |
-| [**End-The-Game**](https://github.com/Lokkisanek/End-The-Game) | Interaktivní webová hra | JavaScript |
-| [**Hypixel-bazaar**](https://github.com/Lokkisanek/Hypixel-bazaar) | Bazaar tracker pro Hypixel | HTML · JS |
-| [**Project Union**](https://matyas-odehnal.vercel.app/) | Featured projekt na portfoliu | React · moderní web |
+| [**SpinPot**](https://github.com/Lokkisanek/SpinPot) | Browser arcade game inspired by Clover Pit | HTML · CSS · JS |
+| [**SkyblockHub.app**](https://github.com/Lokkisanek/SkyblockHub.app) | Tools and website for the Skyblock community | PHP |
+| [**End-The-Game**](https://github.com/Lokkisanek/End-The-Game) | Interactive web game | JavaScript |
+| [**Hypixel-bazaar**](https://github.com/Lokkisanek/Hypixel-bazaar) | Bazaar tracker for Hypixel | HTML · JS |
+| [**Project Union**](https://matyas-odehnal.vercel.app/) | Featured project on my portfolio | React · modern web |
 
-> Více projektů na [portfoliu](https://matyas-odehnal.vercel.app/) a [GitHubu](https://github.com/Lokkisanek?tab=repositories).
-
----
-
-## 🎨 Community Pixel Art — kreslicí plátno
-
-Společné pixelové plátno — každý může přidat pixel a společně tvoříme obraz přímo v README.
-
-<a href="https://github.com/Lokkisanek/Community-Pixel-Art">
-  <img
-    src="https://raw.githubusercontent.com/Lokkisanek/Lokkisanek/main/assets/pixel-canvas.svg"
-    alt="Community Pixel Art canvas"
-    width="100%"
-  />
-</a>
-
-**[→ Přidat pixel / kreslit](https://github.com/Lokkisanek/Community-Pixel-Art)**
+> More projects on my [portfolio](https://matyas-odehnal.vercel.app/) and [GitHub](https://github.com/Lokkisanek?tab=repositories).
 
 ---
 
-## 🎧 Právě poslouchám
+## Services
 
-![Spotify](https://raw.githubusercontent.com/Lokkisanek/Lokkisanek/main/images/spotify.svg)
+I design and build websites — from UI design through development to SEO. **First 20 minutes of consultation are free.**
 
-<sub>Živě aktualizováno přes Spotify API · každou hodinu</sub>
-
----
-
-## Služby
-
-Navrhuju a stavím weby — od návrhu UI přes vývoj až po SEO. Prvních **20 minut konzultace zdarma**.
-
-→ [Ceník & služby na portfoliu](https://matyas-odehnal.vercel.app/)
+→ [Pricing & services on my portfolio](https://matyas-odehnal.vercel.app/)
 
 ---
 
 <div align="center">
 
-### Najdeš mě tady
+### Find me here
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matyas-odehnal)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/)
@@ -109,6 +85,6 @@ Navrhuju a stavím weby — od návrhu UI přes vývoj až po SEO. Prvních **20
 
 <img src="https://komarev.com/ghpvc/?username=Lokkisanek&color=0ea5e9&style=for-the-badge" alt="Profile views" />
 
-**© 2026 Matyáš Odehnal** · Třebíč, Česko
+**© 2026 Matyas Odehnal** · Trebic, Czech Republic
 
 </div>
