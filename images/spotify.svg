@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="80" viewBox="0 0 480 80">
+  <rect width="480" height="80" rx="8" fill="#121212"/>
+  <circle cx="40" cy="40" r="24" fill="#1DB954"/>
+  <path d="M32 28c8-2 16-2 24 0M30 36c10-2 20-2 30 0M28 44c12-2 24-2 36 0" stroke="#121212" stroke-width="2" fill="none" stroke-linecap="round"/>
+  <text x="80" y="32" fill="#b3b3b3" font-family="system-ui,sans-serif" font-size="11">Not Playing</text>
+  <text x="80" y="52" fill="#ffffff" font-family="system-ui,sans-serif" font-size="14" font-weight="600">Spotify se propojí po nastavení secrets</text>
+</svg>
