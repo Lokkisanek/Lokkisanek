@@ -4,7 +4,7 @@
 
 **Fullstack developer** from Trebic · I build websites that make sense
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-matyas--odehnal.vercel.app-0ea5e9?style=for-the-badge&logo=vercel&logoColor=white)](https://matyas-odehnal.vercel.app/)
+[![Portfolio](https://img.shields.io/badge/odehnal.matyas.online-0ea5e9?style=for-the-badge&logo=vercel&logoColor=white)](https://odehnal.matyas.online/)
 [![GitHub](https://img.shields.io/badge/GitHub-Lokkisanek-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Lokkisanek)
 
 </div>
